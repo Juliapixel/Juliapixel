@@ -1,7 +1,7 @@
 # Hi! I'm Julia!
 Maker of things. [Rust](https://rust-lang.org) enjoyer.
 
-You can check out my [website](https://juliapixel.com) if u want to reach me, be it for work or if you just wanna make something together.
+You can check out my [website](https://juliapixel.com) if you want to reach me, be it for work or if you just wanna make something together.
 
 current projects:
 - 🦗
