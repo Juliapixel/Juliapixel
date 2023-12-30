@@ -4,7 +4,7 @@ Maker of things. [Rust](https://rust-lang.org) enjoyer.
 You can check out my [website](https://juliapixel.com) if you want to reach me, be it for work or if you just wanna make something together.
 
 current projects:
-- 🦗
+- A cool twitch bot framework in Rust
 
 stuff i know a lot about:
 - [Rust](https://rust-lang.org)
