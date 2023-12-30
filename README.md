@@ -12,11 +12,12 @@ stuff i know a lot about:
 - 3D Printing ([FDM](https://en.wikipedia.org/wiki/Fused_filament_fabrication))
 
 stuff i know about but not as much:
-- JS
+- SQL (PostgreSQL and SQLite mostly)
+- Docker
 - HTML
 - CSS
+- JS
 - Python
-- Docker
 - Lua
 - CAD modelling with Fusion 360
 
