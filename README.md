@@ -26,3 +26,4 @@ stuff i'm learning:
 - C++
 - embedded development
 - AWS (already have an EC2 instance where I host some stuff I made)
+- frontend development with Svelte
