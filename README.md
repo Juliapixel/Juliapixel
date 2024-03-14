@@ -14,6 +14,7 @@ stuff i know a lot about:
 stuff i know about but not as much:
 - SQL (PostgreSQL and SQLite mostly)
 - Docker
+- Svelte
 - HTML
 - CSS
 - JS
