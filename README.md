@@ -1,31 +1,43 @@
 # Hi! I'm Julia!
 Maker of things. [Rust](https://rust-lang.org) enjoyer.
 
-You can check out my [website](https://juliapixel.com) if you want to reach me, be it for work or if you just wanna make something together.
+You can check out my [website](https://juliapixel.com) if you want to reach me,
+be it for work or if you just wanna make something together.
 
 current projects:
 - palm keyboard usb conversion thing
 
-stuff i know a lot about:
+languages:
 - [Rust](https://rust-lang.org)
-- GNU/Linux
-- 3D Printing ([FDM](https://en.wikipedia.org/wiki/Fused_filament_fabrication))
-
-stuff i know about but not as much:
-- SQL (PostgreSQL and SQLite mostly)
-- Docker
-- Svelte
+- JS/TS
 - HTML
 - CSS
-- JS
+- bash
 - Python
+- SQL
 - Lua
-- CAD modelling with Fusion 360
+
+technologies:
+- GNU/Linux
+- Docker
+- AWS
+- Oracle Cloud
+- 3D Printing ([FDM](https://en.wikipedia.org/wiki/Fused_filament_fabrication))
+- Node.js
+- Svelte
+- TailwindCSS
+- Caddy
+- Nginx
+- Tailscale/Headscale
+- SQLite
+- PostgreSQL
+- Fusion 360
 
 stuff i'm learning:
+- embedded development
+- PCB design
 - C
 - C++
-- embedded development
-- AWS (already have an EC2 instance where I host some stuff I made)
 
+<br/><br/><br/><br/><br/><br/>
 i use arch btw
