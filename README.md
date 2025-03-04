@@ -5,7 +5,7 @@ You can check out my [website](https://juliapixel.com) if you want to reach me,
 be it for work or if you just wanna make something together.
 
 current projects:
-- staying alive
+- LOCKING IN
 
 languages:
 - [Rust](https://rust-lang.org)
