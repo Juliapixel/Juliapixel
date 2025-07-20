@@ -1,43 +1,12 @@
-# Hi! I'm Julia!
-Maker of things. [Rust](https://rust-lang.org) enjoyer.
+# About me
+Maker of things. [Rust](https://rust-lang.org) ~~shill~~ enjoyer.
 
-You can check out my [website](https://juliapixel.com) if you want to reach me,
-be it for work or if you just wanna make something together.
+You can check out my [website](https://juliapixel.com) if you want to reach me.
 
 current projects:
-- LOCKING IN
+- fending off the shadow men
+- maintaining a heartbeat
+- college
 
-languages:
-- [Rust](https://rust-lang.org)
-- JS/TS
-- HTML
-- CSS
-- bash
-- Python
-- SQL
-- Lua
-
-technologies:
-- GNU/Linux
-- Docker
-- AWS
-- Oracle Cloud
-- 3D Printing ([FDM](https://en.wikipedia.org/wiki/Fused_filament_fabrication))
-- Node.js
-- Svelte
-- TailwindCSS
-- Caddy
-- Nginx
-- Tailscale/Headscale
-- SQLite
-- PostgreSQL
-- Fusion 360
-
-stuff i'm learning:
-- embedded development
-- PCB design
-- C
-- C++
-
-<br/><br/><br/><br/><br/><br/>
-i use arch btw
+<br/><br/><br/><br/><br/>
+I use arch btw
