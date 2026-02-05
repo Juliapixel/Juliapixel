@@ -9,4 +9,4 @@ current projects:
 - college
 
 <br/><br/><br/><br/><br/>
-I use arch btw
+I use nix btw
